@@ -37,7 +37,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![horiseon-refactor](./images/screen-grab.png)
+![horiseon-refactor](./screen-grab.PNG)
 
 
 ## Deployed Page 
